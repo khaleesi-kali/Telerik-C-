@@ -1,1 +1,1 @@
-# Telerik-C-
+# Telerik C# course homework projects
