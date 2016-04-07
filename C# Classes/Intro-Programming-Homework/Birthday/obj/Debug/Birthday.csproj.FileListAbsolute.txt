@@ -1,0 +1,5 @@
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Birthday\bin\Debug\Birthday.exe.config
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Birthday\bin\Debug\Birthday.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Birthday\bin\Debug\Birthday.pdb
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Birthday\obj\Debug\Birthday.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Birthday\obj\Debug\Birthday.pdb

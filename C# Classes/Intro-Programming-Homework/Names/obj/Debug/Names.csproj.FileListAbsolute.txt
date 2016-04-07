@@ -1,0 +1,5 @@
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Names\bin\Debug\Names.exe.config
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Names\bin\Debug\Names.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Names\bin\Debug\Names.pdb
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Names\obj\Debug\Names.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Names\obj\Debug\Names.pdb

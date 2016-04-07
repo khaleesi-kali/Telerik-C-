@@ -1,0 +1,6 @@
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\HelloWorld\obj\Debug\HelloWorld.pdb
