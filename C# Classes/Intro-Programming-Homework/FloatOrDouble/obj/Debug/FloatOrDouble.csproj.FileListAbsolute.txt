@@ -1,0 +1,5 @@
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

@@ -1,0 +1,5 @@
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\ComparingFloats\bin\Debug\ComparingFloats.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\ComparingFloats\bin\Debug\ComparingFloats.pdb
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\ComparingFloats\obj\Debug\ComparingFloats.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\ComparingFloats\obj\Debug\ComparingFloats.pdb

@@ -1,0 +1,5 @@
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Bool\bin\Debug\Bool.exe.config
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Bool\bin\Debug\Bool.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Bool\bin\Debug\Bool.pdb
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Bool\obj\Debug\Bool.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Bool\obj\Debug\Bool.pdb

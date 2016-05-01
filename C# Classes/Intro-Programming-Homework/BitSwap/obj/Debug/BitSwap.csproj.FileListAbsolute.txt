@@ -1,0 +1,5 @@
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\BitSwap\bin\Debug\BitSwap.exe.config
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\BitSwap\bin\Debug\BitSwap.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\BitSwap\bin\Debug\BitSwap.pdb
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\BitSwap\obj\Debug\BitSwap.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\BitSwap\obj\Debug\BitSwap.pdb
