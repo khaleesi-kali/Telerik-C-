@@ -1,0 +1,6 @@
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\BitExchange\bin\Debug\BitExchange.exe.config
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\BitExchange\bin\Debug\BitExchange.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\BitExchange\bin\Debug\BitExchange.pdb
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\BitExchange\obj\Debug\BitExchange.csprojResolveAssemblyReference.cache
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\BitExchange\obj\Debug\BitExchange.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\BitExchange\obj\Debug\BitExchange.pdb

@@ -1,0 +1,6 @@
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Unicode\bin\Debug\Unicode.exe.config
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Unicode\bin\Debug\Unicode.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Unicode\bin\Debug\Unicode.pdb
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Unicode\obj\Debug\Unicode.csprojResolveAssemblyReference.cache
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Unicode\obj\Debug\Unicode.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Unicode\obj\Debug\Unicode.pdb

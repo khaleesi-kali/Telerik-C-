@@ -1,0 +1,6 @@
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Trapezoids\bin\Debug\Trapezoids.exe.config
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Trapezoids\bin\Debug\Trapezoids.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Trapezoids\bin\Debug\Trapezoids.pdb
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Trapezoids\obj\Debug\Trapezoids.csprojResolveAssemblyReference.cache
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Trapezoids\obj\Debug\Trapezoids.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Trapezoids\obj\Debug\Trapezoids.pdb

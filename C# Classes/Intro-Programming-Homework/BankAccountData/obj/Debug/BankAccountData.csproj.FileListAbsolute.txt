@@ -1,0 +1,6 @@
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\BankAccountData\bin\Debug\BankAccountData.exe.config
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\BankAccountData\bin\Debug\BankAccountData.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\BankAccountData\bin\Debug\BankAccountData.pdb
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\BankAccountData\obj\Debug\BankAccountData.csprojResolveAssemblyReference.cache
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\BankAccountData\obj\Debug\BankAccountData.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\BankAccountData\obj\Debug\BankAccountData.pdb

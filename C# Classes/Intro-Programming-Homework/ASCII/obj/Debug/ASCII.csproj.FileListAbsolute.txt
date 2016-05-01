@@ -1,0 +1,5 @@
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\ASCII\bin\Debug\ASCII.exe.config
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\ASCII\bin\Debug\ASCII.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\ASCII\bin\Debug\ASCII.pdb
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\ASCII\obj\Debug\ASCII.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\ASCII\obj\Debug\ASCII.pdb

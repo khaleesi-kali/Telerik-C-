@@ -1,0 +1,5 @@
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\VariableValueExchange\bin\Debug\VariableValueExchange.exe.config
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\VariableValueExchange\bin\Debug\VariableValueExchange.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\VariableValueExchange\bin\Debug\VariableValueExchange.pdb
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\VariableValueExchange\obj\Debug\VariableValueExchange.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\VariableValueExchange\obj\Debug\VariableValueExchange.pdb
