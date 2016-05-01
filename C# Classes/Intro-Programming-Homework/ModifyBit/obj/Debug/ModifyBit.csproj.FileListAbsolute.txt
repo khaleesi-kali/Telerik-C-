@@ -1,0 +1,6 @@
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\ModifyBit\bin\Debug\ModifyBut.exe.config
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\ModifyBit\bin\Debug\ModifyBut.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\ModifyBit\bin\Debug\ModifyBut.pdb
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\ModifyBit\obj\Debug\ModifyBit.csprojResolveAssemblyReference.cache
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\ModifyBit\obj\Debug\ModifyBut.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\ModifyBit\obj\Debug\ModifyBut.pdb

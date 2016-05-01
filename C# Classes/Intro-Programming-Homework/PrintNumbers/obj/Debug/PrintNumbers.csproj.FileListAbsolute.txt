@@ -1,0 +1,6 @@
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.csprojResolveAssemblyReference.cache
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb

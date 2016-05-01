@@ -1,0 +1,6 @@
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\MoonGravity\bin\Debug\MoonGravity.exe.config
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\MoonGravity\bin\Debug\MoonGravity.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\MoonGravity\bin\Debug\MoonGravity.pdb
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\MoonGravity\obj\Debug\MoonGravity.csprojResolveAssemblyReference.cache
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\MoonGravity\obj\Debug\MoonGravity.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\MoonGravity\obj\Debug\MoonGravity.pdb

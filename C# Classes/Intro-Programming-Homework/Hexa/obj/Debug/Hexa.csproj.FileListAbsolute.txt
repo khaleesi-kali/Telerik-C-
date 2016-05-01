@@ -1,0 +1,5 @@
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Hexa\bin\Debug\Hexa.exe.config
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Hexa\bin\Debug\Hexa.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Hexa\bin\Debug\Hexa.pdb
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Hexa\obj\Debug\Hexa.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Hexa\obj\Debug\Hexa.pdb

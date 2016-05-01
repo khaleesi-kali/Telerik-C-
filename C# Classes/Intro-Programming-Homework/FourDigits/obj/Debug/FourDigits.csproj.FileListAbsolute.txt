@@ -1,0 +1,5 @@
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\FourDigits\bin\Debug\FourDigits.exe.config
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\FourDigits\bin\Debug\FourDigits.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\FourDigits\bin\Debug\FourDigits.pdb
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\FourDigits\obj\Debug\FourDigits.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\FourDigits\obj\Debug\FourDigits.pdb
