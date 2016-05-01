@@ -1,0 +1,5 @@
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\SevenByFive\bin\Debug\SevenByFive.exe.config
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\SevenByFive\bin\Debug\SevenByFive.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\SevenByFive\bin\Debug\SevenByFive.pdb
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\SevenByFive\obj\Debug\SevenByFive.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\SevenByFive\obj\Debug\SevenByFive.pdb

@@ -1,0 +1,5 @@
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\ThirdBit\bin\Debug\ThirdBit.exe.config
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\ThirdBit\bin\Debug\ThirdBit.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\ThirdBit\bin\Debug\ThirdBit.pdb
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\ThirdBit\obj\Debug\ThirdBit.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\ThirdBit\obj\Debug\ThirdBit.pdb

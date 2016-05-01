@@ -1,0 +1,5 @@
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Rectangle\bin\Debug\Rectangle.exe.config
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Rectangle\bin\Debug\Rectangle.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Rectangle\bin\Debug\Rectangle.pdb
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Rectangle\obj\Debug\Rectangle.exe
+C:\Users\kalina\Desktop\C# Classes\Intro-Programming-Homework\Rectangle\obj\Debug\Rectangle.pdb
